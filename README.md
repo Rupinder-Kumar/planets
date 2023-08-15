@@ -1,2 +1,2 @@
 # Planets
-Habitable Planet finding project built in Node.js
+Exploring Habitable Planets project using NASA's kepler spacecraft data built with Node.js
